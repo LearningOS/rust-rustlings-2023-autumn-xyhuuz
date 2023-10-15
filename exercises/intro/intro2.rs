@@ -5,10 +5,8 @@
 // Execute `rustlings hint intro2` or use the `hint` watch subcommand for a
 // hint.
 
-
+// 
 
 fn main() {
-    //println!("Hello World!");
-    let s="World";
-    println!("Hello {s}!",);
+    println!("Hello {}!", "World");
 }
